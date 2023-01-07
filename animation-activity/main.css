@@ -27,6 +27,8 @@ body  {
   height: 10px;
   width: 70%;
   margin: auto;
+  transform-origin: left top;
+  transform-origin: left bottom;
 }
 
 li {
